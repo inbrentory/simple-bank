@@ -1,0 +1,2 @@
+# simple-bank
+license: MIT
